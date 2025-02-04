@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Bettrish'; /* Nama font yang akan digunakan */
+  src: url('asset/font/Bettrish\ Dafont.ttf') format('truetype'); /* Lokasi dan format font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bettrish'; /* Nama font yang akan digunakan */
+  src: url('asset/font/Bettrish\ Italic.ttf') format('truetype'); /* Lokasi dan format font */
+  font-weight: normal;
+  font-style: normal;
+}
+
 body, html {
   height: 100%;
   margin: 0;
